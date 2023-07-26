@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "static":"next build && next export"
+    "static": "next build && next export"
   },
   "dependencies": {
     "autoprefixer": "10.4.14",
